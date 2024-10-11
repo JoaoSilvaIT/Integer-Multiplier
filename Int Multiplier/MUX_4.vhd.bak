@@ -1,0 +1,20 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+
+entity MUX is 
+port( A : in STD_LOGIC_VECTOR(3 downto 0);
+		B : in STD_LOGIC_VECTOR(3 downto 0);
+		S: in std_logic;
+		Sout : out STD_LOGIC_VECTOR(3 downto 0)
+);
+end MUX; 
+
+architecture arch_MUX of MUX is 
+
+begin 
+	y(0) <= (a(0) and not s) or (b(0) and s);
+	y(1) <= (a(1) and not s) or (b(1) and s);
+	y(2) <= (a(2) and not s) or (b(2) and s);
+	y(3) <= (a(3) and not s) or (b(3) and s);
+	
+end arch_MUX;

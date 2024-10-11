@@ -1,0 +1,35 @@
+entity ROMcomb is
+	port(
+		addr : in std_logic_vector(3 downto 0);
+		q : out std_logic_vector(3 downto 0)
+	);
+end ROMcomb;
+
+architecture memory of ROMcomb is
+
+	subtype word_t is std_logic_vector(3 downto 0);
+	type memory_t is array(0 to 15) of word_t;
+
+	signal rom : memory_t := (
+		"0010",
+		"0010",
+		"0111",
+		"0111",
+		"0100"
+		"1000",
+		"0100",
+		"1000",
+		"0000"
+		"0000",
+		"1000",
+		"1000",
+		"0000"
+		"0000",
+		"0000",
+		"0000"
+	);
+begin
+
+	q <= rom(to_integer(unsigned(addr)));
+	
+end memory;
