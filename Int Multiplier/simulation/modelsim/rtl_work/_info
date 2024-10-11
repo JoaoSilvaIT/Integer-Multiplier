@@ -1,0 +1,679 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/gpmpo/OneDrive/Desktop/TLAB3/simulation/modelsim
+Eadder
+Z1 w1703154364
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:/Users/gpmpo/OneDrive/Desktop/TLAB3/Adder.vhd
+Z5 FC:/Users/gpmpo/OneDrive/Desktop/TLAB3/Adder.vhd
+l0
+L4
+VzHZUZ[KI2QbWc0B2cNbOa0
+!s100 Gb7`?ORc[O7H;JbI7ICf@0
+Z6 OV;C;10.5b;63
+31
+Z7 !s110 1703815143
+!i10b 1
+Z8 !s108 1703815143.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/gpmpo/OneDrive/Desktop/TLAB3/Adder.vhd|
+Z10 !s107 C:/Users/gpmpo/OneDrive/Desktop/TLAB3/Adder.vhd|
+!i113 1
+Z11 o-93 -work work
+Z12 tExplicit 1 CvgOpt 0
+Aarch_adder
+R2
+R3
+DEx4 work 5 adder 0 22 zHZUZ[KI2QbWc0B2cNbOa0
+l22
+L12
+VR7M>Ak4zkNRoI2X:_Gid63
+!s100 cQ_zMO<N5EXSKXM;]c;<W0
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ebin2dec_int
+Z13 w1703154365
+Z14 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z15 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R2
+R3
+R0
+Z16 8C:/Users/gpmpo/OneDrive/Desktop/TLAB3/bin2dec_int.vhd
+Z17 FC:/Users/gpmpo/OneDrive/Desktop/TLAB3/bin2dec_int.vhd
+l0
+L6
+V<Mz6CeBleH0@^V[kn<[5U0
+!s100 >9LLYZ^;=653Vh@ZUL6di2
+R6
+31
+Z18 !s110 1703815142
+!i10b 1
+Z19 !s108 1703815142.000000
+Z20 !s90 -reportprogress|300|-93|-work|work|C:/Users/gpmpo/OneDrive/Desktop/TLAB3/bin2dec_int.vhd|
+Z21 !s107 C:/Users/gpmpo/OneDrive/Desktop/TLAB3/bin2dec_int.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R14
+R15
+R2
+R3
+DEx4 work 11 bin2dec_int 0 22 <Mz6CeBleH0@^V[kn<[5U0
+l13
+L11
+VafcMl?Ldb7dJnnh`1SefW2
+!s100 E?7Jh`dV_8?Dn7k>:EmlG3
+R6
+31
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R11
+R12
+Ecomparador
+R13
+R2
+R3
+R0
+Z22 8C:/Users/gpmpo/OneDrive/Desktop/TLAB3/Comparador.vhd
+Z23 FC:/Users/gpmpo/OneDrive/Desktop/TLAB3/Comparador.vhd
+l0
+L4
+VCR]:Dj_RNKH_@>^I]ObQm1
+!s100 F77bKk<JW?g>zhnG7Kj511
+R6
+31
+R7
+!i10b 1
+R8
+Z24 !s90 -reportprogress|300|-93|-work|work|C:/Users/gpmpo/OneDrive/Desktop/TLAB3/Comparador.vhd|
+Z25 !s107 C:/Users/gpmpo/OneDrive/Desktop/TLAB3/Comparador.vhd|
+!i113 1
+R11
+R12
+Acomparador_cup
+R2
+R3
+DEx4 work 10 comparador 0 22 CR]:Dj_RNKH_@>^I]ObQm1
+l13
+L11
+Vh3I[Di^eMhQD;0S;nA:QU1
+!s100 ejiB5b`=0b<2hmCo5fgEQ3
+R6
+31
+R7
+!i10b 1
+R8
+R24
+R25
+!i113 1
+R11
+R12
+Econtrolo
+Z26 w1703814228
+R2
+R3
+R0
+Z27 8C:/Users/gpmpo/OneDrive/Desktop/TLAB3/Controlo.vhd
+Z28 FC:/Users/gpmpo/OneDrive/Desktop/TLAB3/Controlo.vhd
+l0
+L4
+V_BMG2NAXLAa6=in7S=RfS0
+!s100 eLe6IzC6LXUNQPc7bOhnd3
+R6
+31
+R7
+!i10b 1
+R8
+Z29 !s90 -reportprogress|300|-93|-work|work|C:/Users/gpmpo/OneDrive/Desktop/TLAB3/Controlo.vhd|
+Z30 !s107 C:/Users/gpmpo/OneDrive/Desktop/TLAB3/Controlo.vhd|
+!i113 1
+R11
+R12
+Alogicfunction
+R2
+R3
+DEx4 work 8 controlo 0 22 _BMG2NAXLAa6=in7S=RfS0
+l47
+L24
+VdY^T?izFogDC`e8cda><i2
+!s100 eTPJRDO]U^6@;aFJ@@<_h0
+R6
+31
+R7
+!i10b 1
+R8
+R29
+R30
+!i113 1
+R11
+R12
+Ecounterup
+Z31 w1703807463
+R2
+R3
+R0
+Z32 8C:/Users/gpmpo/OneDrive/Desktop/TLAB3/CounterUp.vhd
+Z33 FC:/Users/gpmpo/OneDrive/Desktop/TLAB3/CounterUp.vhd
+l0
+L4
+V]FcfL8>H?oc6]mD1RLg1j0
+!s100 2[<@_=A`Q1]WcDdR8K^oo2
+R6
+31
+R18
+!i10b 1
+R19
+Z34 !s90 -reportprogress|300|-93|-work|work|C:/Users/gpmpo/OneDrive/Desktop/TLAB3/CounterUp.vhd|
+Z35 !s107 C:/Users/gpmpo/OneDrive/Desktop/TLAB3/CounterUp.vhd|
+!i113 1
+R11
+R12
+Aarch_counter
+R2
+R3
+DEx4 work 9 counterup 0 22 ]FcfL8>H?oc6]mD1RLg1j0
+l53
+L14
+VH3^d`SZVIW`lSG[@d>hBO3
+!s100 EkRVK2zA`e;dFCGBPI?DO1
+R6
+31
+R18
+!i10b 1
+R19
+R34
+R35
+!i113 1
+R11
+R12
+Edatapath
+Z36 w1703804556
+R2
+R3
+R0
+Z37 8C:/Users/gpmpo/OneDrive/Desktop/TLAB3/DataPath.vhd
+Z38 FC:/Users/gpmpo/OneDrive/Desktop/TLAB3/DataPath.vhd
+l0
+L4
+VmEfm]W_RF[:Z`6AaB0G?z3
+!s100 HC?ikJaS?AmPTC3RXo67b3
+R6
+31
+R7
+!i10b 1
+R8
+Z39 !s90 -reportprogress|300|-93|-work|work|C:/Users/gpmpo/OneDrive/Desktop/TLAB3/DataPath.vhd|
+Z40 !s107 C:/Users/gpmpo/OneDrive/Desktop/TLAB3/DataPath.vhd|
+!i113 1
+R11
+R12
+Aarch_datapath
+R2
+R3
+DEx4 work 8 datapath 0 22 mEfm]W_RF[:Z`6AaB0G?z3
+l105
+L28
+V3MLzVg4eUkXOUEmT2FnlL0
+!s100 i_2ZVVQnYiF^CH@3ElGnY1
+R6
+31
+R7
+!i10b 1
+R8
+R39
+R40
+!i113 1
+R11
+R12
+Edecoderhex
+R13
+R2
+R3
+R0
+Z41 8C:/Users/gpmpo/OneDrive/Desktop/TLAB3/decoderHex.vhd
+Z42 FC:/Users/gpmpo/OneDrive/Desktop/TLAB3/decoderHex.vhd
+l0
+L4
+VMlM5=Fj7KBogC[`hSN2YU2
+!s100 J91kKEbz<fhzVmZEhAF_40
+R6
+31
+R18
+!i10b 1
+R19
+Z43 !s90 -reportprogress|300|-93|-work|work|C:/Users/gpmpo/OneDrive/Desktop/TLAB3/decoderHex.vhd|
+Z44 !s107 C:/Users/gpmpo/OneDrive/Desktop/TLAB3/decoderHex.vhd|
+!i113 1
+R11
+R12
+Alogicfuntion
+R2
+R3
+DEx4 work 10 decoderhex 0 22 MlM5=Fj7KBogC[`hSN2YU2
+l31
+L13
+VI97@inDF]e6Wo84iM?Rae0
+!s100 zDU`X;eAaH<[1G=1YbbJS0
+R6
+31
+R18
+!i10b 1
+R19
+R43
+R44
+!i113 1
+R11
+R12
+Effd
+R13
+R2
+R3
+R0
+Z45 8C:/Users/gpmpo/OneDrive/Desktop/TLAB3/FFD.vhd
+Z46 FC:/Users/gpmpo/OneDrive/Desktop/TLAB3/FFD.vhd
+l0
+L4
+VFRY:TFQTi;MMo2R9n1?:h1
+!s100 5EKFKNQHF0zGn8;h4cC2:1
+R6
+31
+R18
+!i10b 1
+R19
+Z47 !s90 -reportprogress|300|-93|-work|work|C:/Users/gpmpo/OneDrive/Desktop/TLAB3/FFD.vhd|
+Z48 !s107 C:/Users/gpmpo/OneDrive/Desktop/TLAB3/FFD.vhd|
+!i113 1
+R11
+R12
+Alogicfunction
+R2
+R3
+DEx4 work 3 ffd 0 22 FRY:TFQTi;MMo2R9n1?:h1
+l15
+L13
+VP0aAIn<YzGe?KOKS>8in31
+!s100 RhZY8=J8ajg6fk<9M3Fcn1
+R6
+31
+R18
+!i10b 1
+R19
+R47
+R48
+!i113 1
+R11
+R12
+Efulladder
+R13
+R2
+R3
+R0
+Z49 8C:/Users/gpmpo/OneDrive/Desktop/TLAB3/FullAdder.vhd
+Z50 FC:/Users/gpmpo/OneDrive/Desktop/TLAB3/FullAdder.vhd
+l0
+L4
+V1U2eY;fOGNRDEI6Nm@O>73
+!s100 JOn;KngeXKOzRV6]Yk=7j3
+R6
+31
+R7
+!i10b 1
+R8
+Z51 !s90 -reportprogress|300|-93|-work|work|C:/Users/gpmpo/OneDrive/Desktop/TLAB3/FullAdder.vhd|
+Z52 !s107 C:/Users/gpmpo/OneDrive/Desktop/TLAB3/FullAdder.vhd|
+!i113 1
+R11
+R12
+Alogicfulladder
+R2
+R3
+DEx4 work 9 fulladder 0 22 1U2eY;fOGNRDEI6Nm@O>73
+l15
+L13
+Vhoh7h3fb]5LCd53F@4ULF2
+!s100 8`?PRclS;38<^iSd662fj1
+R6
+31
+R7
+!i10b 1
+R8
+R51
+R52
+!i113 1
+R11
+R12
+Eint7seg
+R13
+R2
+R3
+R0
+Z53 8C:/Users/gpmpo/OneDrive/Desktop/TLAB3/int7seg.vhd
+Z54 FC:/Users/gpmpo/OneDrive/Desktop/TLAB3/int7seg.vhd
+l0
+L4
+VJg9:^[`Fz[^9g0DaDUB<d1
+!s100 `Pjz7i?]GB<AdE:ElX6_Q1
+R6
+31
+R18
+!i10b 1
+R19
+Z55 !s90 -reportprogress|300|-93|-work|work|C:/Users/gpmpo/OneDrive/Desktop/TLAB3/int7seg.vhd|
+Z56 !s107 C:/Users/gpmpo/OneDrive/Desktop/TLAB3/int7seg.vhd|
+!i113 1
+R11
+R12
+Alogicfunction
+R2
+R3
+DEx4 work 7 int7seg 0 22 Jg9:^[`Fz[^9g0DaDUB<d1
+l14
+L10
+VjFGFQZ]=j4EQZDld@R^mf0
+!s100 P[781kOP9bE:i`;FB6lcz2
+R6
+31
+R18
+!i10b 1
+R19
+R55
+R56
+!i113 1
+R11
+R12
+Emux_1
+R13
+R2
+R3
+R0
+Z57 8C:/Users/gpmpo/OneDrive/Desktop/TLAB3/MUX_1.vhd
+Z58 FC:/Users/gpmpo/OneDrive/Desktop/TLAB3/MUX_1.vhd
+l0
+L4
+V;1K;Nnaf<>@HQOW2b9@mJ2
+!s100 >Mh_jmM=8[Wn4XcGKABi21
+R6
+31
+R7
+!i10b 1
+R8
+Z59 !s90 -reportprogress|300|-93|-work|work|C:/Users/gpmpo/OneDrive/Desktop/TLAB3/MUX_1.vhd|
+Z60 !s107 C:/Users/gpmpo/OneDrive/Desktop/TLAB3/MUX_1.vhd|
+!i113 1
+R11
+R12
+Aarch_mux_1
+R2
+R3
+DEx4 work 5 mux_1 0 22 ;1K;Nnaf<>@HQOW2b9@mJ2
+l14
+L12
+VATIj?Y7ncH_R_g7NbGc=I0
+!s100 P^;<4PClzeBl<FzdlT;F71
+R6
+31
+R7
+!i10b 1
+R8
+R59
+R60
+!i113 1
+R11
+R12
+Emux_4
+R13
+R2
+R3
+R0
+Z61 8C:/Users/gpmpo/OneDrive/Desktop/TLAB3/MUX_4.vhd
+Z62 FC:/Users/gpmpo/OneDrive/Desktop/TLAB3/MUX_4.vhd
+l0
+L4
+V7P[5WPjb^7kUV2C4Am2MH3
+!s100 nT42XElL80E9A]<KGNPU[0
+R6
+31
+R7
+!i10b 1
+R8
+Z63 !s90 -reportprogress|300|-93|-work|work|C:/Users/gpmpo/OneDrive/Desktop/TLAB3/MUX_4.vhd|
+Z64 !s107 C:/Users/gpmpo/OneDrive/Desktop/TLAB3/MUX_4.vhd|
+!i113 1
+R11
+R12
+Aarch_mux_4
+R2
+R3
+DEx4 work 5 mux_4 0 22 7P[5WPjb^7kUV2C4Am2MH3
+l14
+L12
+VHmkB47H_TP3DQLXfd`aj>0
+!s100 :b<LG0:3IK@l1l:zEV8d@2
+R6
+31
+R7
+!i10b 1
+R8
+R63
+R64
+!i113 1
+R11
+R12
+Ereg
+R13
+R2
+R3
+R0
+Z65 8C:/Users/gpmpo/OneDrive/Desktop/TLAB3/Resgisto.vhd
+Z66 FC:/Users/gpmpo/OneDrive/Desktop/TLAB3/Resgisto.vhd
+l0
+L4
+VMBieh^d4oe?N7gEZKIe5b1
+!s100 Fh;=oocPoU>8jUUmlZ9B^1
+R6
+31
+R18
+!i10b 1
+R19
+Z67 !s90 -reportprogress|300|-93|-work|work|C:/Users/gpmpo/OneDrive/Desktop/TLAB3/Resgisto.vhd|
+Z68 !s107 C:/Users/gpmpo/OneDrive/Desktop/TLAB3/Resgisto.vhd|
+!i113 1
+R11
+R12
+Alogicfunction
+R2
+R3
+DEx4 work 3 reg 0 22 MBieh^d4oe?N7gEZKIe5b1
+l22
+L13
+VhR<1l6>oSfWXI<Q:2U0d51
+!s100 S4Y2j@QL7mjck@PL9b9b_2
+R6
+31
+R18
+!i10b 1
+R19
+R67
+R68
+!i113 1
+R11
+R12
+Eromcomb
+Z69 w1703815130
+Z70 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R2
+R3
+R0
+Z71 8C:/Users/gpmpo/OneDrive/Desktop/TLAB3/ROMcomb.vhd
+Z72 FC:/Users/gpmpo/OneDrive/Desktop/TLAB3/ROMcomb.vhd
+l0
+L5
+VBgVCg1_CGEP?QkR1_89Bd2
+!s100 a>1G3dTPLzn7N_60D@THD2
+R6
+31
+R7
+!i10b 1
+R8
+Z73 !s90 -reportprogress|300|-93|-work|work|C:/Users/gpmpo/OneDrive/Desktop/TLAB3/ROMcomb.vhd|
+Z74 !s107 C:/Users/gpmpo/OneDrive/Desktop/TLAB3/ROMcomb.vhd|
+!i113 1
+R11
+R12
+Amemory
+R70
+R2
+R3
+DEx4 work 7 romcomb 0 22 BgVCg1_CGEP?QkR1_89Bd2
+l51
+L12
+V]81n@^>ZP@@<L0_g?Z?Q81
+!s100 zmd<P=kKhPOVb8ZF0YanR2
+R6
+31
+R7
+!i10b 1
+R8
+R73
+R74
+!i113 1
+R11
+R12
+Eshiftregister
+R13
+R2
+R3
+R0
+Z75 8C:/Users/gpmpo/OneDrive/Desktop/TLAB3/ShiftRegister.vhd
+Z76 FC:/Users/gpmpo/OneDrive/Desktop/TLAB3/ShiftRegister.vhd
+l0
+L4
+V=KQCfo1>h;djVoDJ<bmCk0
+!s100 Vn_B1>dV=FDPicRGTI2JQ2
+R6
+31
+R7
+!i10b 1
+R8
+Z77 !s90 -reportprogress|300|-93|-work|work|C:/Users/gpmpo/OneDrive/Desktop/TLAB3/ShiftRegister.vhd|
+Z78 !s107 C:/Users/gpmpo/OneDrive/Desktop/TLAB3/ShiftRegister.vhd|
+!i113 1
+R11
+R12
+Aarch_shiftregister
+R2
+R3
+DEx4 work 13 shiftregister 0 22 =KQCfo1>h;djVoDJ<bmCk0
+l43
+L18
+V2=I0Bh:9YFZKaPaANYa`T0
+!s100 G<28Di5PYFGjlLb3lI]7T1
+R6
+31
+R7
+!i10b 1
+R8
+R77
+R78
+!i113 1
+R11
+R12
+Etlab3
+Z79 w1703813611
+R2
+R3
+R0
+Z80 8C:/Users/gpmpo/OneDrive/Desktop/TLAB3/TLAB3.vhd
+Z81 FC:/Users/gpmpo/OneDrive/Desktop/TLAB3/TLAB3.vhd
+l0
+L4
+VmzC2SIaG0]CIT[Pl@C@Zo2
+!s100 VPj^5IR?24CNJ6oG[LEe71
+R6
+31
+R7
+!i10b 1
+R8
+Z82 !s90 -reportprogress|300|-93|-work|work|C:/Users/gpmpo/OneDrive/Desktop/TLAB3/TLAB3.vhd|
+Z83 !s107 C:/Users/gpmpo/OneDrive/Desktop/TLAB3/TLAB3.vhd|
+!i113 1
+R11
+R12
+Aarch_tlab3
+R2
+R3
+DEx4 work 5 tlab3 0 22 mzC2SIaG0]CIT[Pl@C@Zo2
+l88
+L20
+V5]Dh`zY;D<kRD:VSS:HaA0
+!s100 2o`62CGITg@J2f[KJa70H1
+R6
+31
+R7
+!i10b 1
+R8
+R82
+R83
+!i113 1
+R11
+R12
+Etlab3_tb
+Z84 w1703805095
+R2
+R3
+R0
+Z85 8C:/Users/gpmpo/OneDrive/Desktop/TLAB3/TLAB3_tb.vhd
+Z86 FC:/Users/gpmpo/OneDrive/Desktop/TLAB3/TLAB3_tb.vhd
+l0
+L4
+VclXK]i_>mU4EX`gHlLiNl0
+!s100 ?RzInnLORBF6gzF=:XJ1g2
+R6
+32
+Z87 !s110 1703815150
+!i10b 1
+Z88 !s108 1703815150.000000
+Z89 !s90 -reportprogress|300|-work|work|C:/Users/gpmpo/OneDrive/Desktop/TLAB3/TLAB3_tb.vhd|
+Z90 !s107 C:/Users/gpmpo/OneDrive/Desktop/TLAB3/TLAB3_tb.vhd|
+!i113 1
+Z91 o-work work
+R12
+Atlab3_tb_arch
+R2
+R3
+DEx4 work 8 tlab3_tb 0 22 clXK]i_>mU4EX`gHlLiNl0
+l40
+L7
+Vdjnf:9J:GF^YQf`]ZnkWk1
+!s100 OikW`]96?h6PLd;8K6m9n2
+R6
+32
+R87
+!i10b 1
+R88
+R89
+R90
+!i113 1
+R91
+R12
